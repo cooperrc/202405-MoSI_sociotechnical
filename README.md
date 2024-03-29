@@ -1,3 +1,7 @@
+---
+geometry: margin=2cm
+output: pdf_document
+---
 # Incorporating socio-technical framework into engineering communications
 
 *Ryan C. Cooper, Jorge Paricio Garcia, Stephany Santos, Desen Ozkan*
