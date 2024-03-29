@@ -12,24 +12,19 @@ team interests
 
 **Hypothesis**: Incorporating social and ethical conversations into engineering courses and design will create more inclusive and equity-focused courses. 
 
-Students' bring background (family, heritage, culture, race, gender, etc.) to why decisions are important. These voices will give much-needed humanity to engineering analysis and decision making
+## Abstract
 
-short term goals:
-- build sociotechnical case studies into ME3256: Data Driven decisions
-- build framework for engineering education to consider ethical and social issues when using data, models, and other engineering tools
+Historically, engineering courses teach "rigorous" scientific and mathematical concepts that can be quantified and measured such as efficiency, weight, strength, durability, among other "rigorous" science or technical concepts. The human(e) or professional skills and competiencies, including sciences of humanitarian, ethical, philosophical, etc. concepts are usually left outside the scope of engineering disciplines. In practice, this is because these professional skills and human factors were not historically emphasized, thus there is a lack of precedence in the integration of technical content and qualitative or justice oriented thinking. These skills are also perceived as harder to quantify. The unification of these rigorous and professional skills we define here as _sociotechnical_ engineering design:
 
-Possible case studies for students to practice sociotechnical communication
-- pulse oximeter racial bias
-- data feminism case studies
+>Complex interplays between the social and the technical in engineering and scientific practices. By contrast, those who hold the ideology of technical–social dualism separate the technical and the social by claiming that the two inhabit distinct and separate (and separable) domains -[Leyden & Luceda, _Engineering Justice_ p. 50]
 
-long-term goals:
-- share findings with broader audience in the form of journal publications or conference talks
-- build a Research Experience of Undergraduates (REU) site for "Sociotechnical engineering research"
-    - reach out to faculty in College of Engineering and Human Rights that incorporate social and ethical consideration in their research
-    - use REU cohort for discussions focused on sociotechnical engineering ethics and philosophy discussions
+In certain circumstances, gaps or exclusion in decision making can lead to glaring oversight cases include racial bias in pulse oximeter readings that led to misdiagnosed Black patients, training articifial intelligence and machine learning models using precedence from oppresive systems or biased data, etc. This can lead to disparate impact or treatment of protected class groups.
 
-## Abstract - *WIP*
+In other circumstances, gaps or exclusion in decisionmaking can lead to misinformation, disinformation or erasure in data analysis or data dissemination. For example, a narrative showing that the proportion of women in engineering is increasing is a positive one; however when disaggregating the data, the proportion of white women in engineering is increasing, while the proportion of women of color persisting is decreasing. Engineers often view numbers as being objective, however there is immense subjectivity due to several factors including power, "what counts", and outliers. Catherine D'Ignazio and Lauren F. Klein's work in Data Feminism outlines how data science is a form of power, and how it could instead be framed in an intersectional and feminist lens.
+> []https://data-feminism.mitpress.mit.edu/
 
-Historically, engineering courses teach "hard" scientific and mathematical concepts. Typical engineering courses focus on important concepts such as efficiency, weight, strength, durability, and other "hard" science concepts. The "soft" sciences of humanitarian, ethical, philosophical, etc. concepts are usually left outside the scope of engineering disciplines. In practice, this is because "soft" scientific concepts are extremely difficult to incorporate into engineering designs. Glaring oversight cases include racial bias in pulse oximeter readings leading to misdiagnosed black patients, ???, etc. 
+Additionally, student motivations in pursuing engineering has shifted over time. For example, Ebony McGee's work in defining the Equity Ethic shows that Black and Latine students in particular have motivations and career goals in engineering that heavily integrate social justice, equity and empathy. The current engineering curriculum does not meet the students' desires and career goals.
+> []https://www.journals.uchicago.edu/doi/epdf/10.1086/693954
 
-Our goal in the workshop is to discuss, design, and curate case studies for engineering students to practice sociotechnical engineering during their education here at UConn. The short term goal is to build sociotechnical case studies for ME3256: Data Driven Decisions and identify challenges metrics to consider during course delivery. Longer term goals include sharing the benefits of sociotechnical engineering education with other colleagues in journal papers or conferences and submitting a NSF Research Experiences for Undergraduates: Sociotechnical engineering site proposal. 
+
+Our goal in the MOSI is to discuss, design, and curate case studies for engineering students to practice sociotechnical engineering during their education here at UConn. The short term goal is to build sociotechnical case studies for ME3256: Data Driven Decisions and identify challenging metrics to consider during course delivery. Longer term goals include sharing the benefits of sociotechnical engineering education with other colleagues in journal papers or conferences and submitting a NSF Research Experiences for Undergraduates: Sociotechnical engineering site proposal. 
